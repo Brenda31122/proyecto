@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371392358828",
+    "project_id": "jugos-y-licuados-carlitos",
+    "storage_bucket": "jugos-y-licuados-carlitos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371392358828:android:473f457fe2b4c952cb7209",
+        "android_client_info": {
+          "package_name": "com.example.jlcarlitos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxg0F3NDReSj1-NA3noQLNCtwLUoDd1vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
